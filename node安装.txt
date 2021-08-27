@@ -9,6 +9,12 @@ vs Code
 2.set-ExecutionPolicy RemoteSigned
 	y 
 
+
+typescript
+npm install -g typescript
+https://typescript.bootcss.com/tutorials/react-&-webpack.html
+
+
 react
 $ npm install -g create-react-app
 $ create-react-app my-app
